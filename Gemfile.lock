@@ -415,7 +415,6 @@ DEPENDENCIES
   rspec-rails
   rspec-retry
   rubocop
-  sass
   sass-rails (~> 5.0)
   seed-fu (~> 2.3)
   selenium-webdriver
